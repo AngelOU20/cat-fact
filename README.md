@@ -14,4 +14,3 @@ Recupera un hecho aleatorio de gatos de la primera API y muestra una imagen de u
 - Recupera un hecho aleatorio de gatos de la primera API.
 - Recupera la primera palabra del hecho.
 - Muestra una imagen de un gato con la primera palabra.
-# cat-fact
